@@ -1,5 +1,4 @@
 # Customer Segmentation using RFM Analysis
-Use Power BI to monitor and analyze customer churn of a fictional telecom company called Databel
 - Link Google Collab: [click here](https://colab.research.google.com/drive/1goxKlxNsn7508hohKX_Az51Zo-2pW-9b?usp=sharing)
 - Link Report: [click here](https://drive.google.com/file/d/15g9-30OrSy0C7s5AAEO7qDODI3nbxZay/view?usp=drive_link)
 - Link Dataset: [click here](https://docs.google.com/spreadsheets/d/1DGEcMUg5pnXnXOEBofvzRZvzDgNX6CzQ/edit?usp=drive_link&ouid=104580655184834396480&rtpof=true&sd=true)
